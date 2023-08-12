@@ -5,9 +5,13 @@ Welcome to my Data Analyst Portfolio! Here, I showcase my expertise in data anal
 **🛠️ Skills & Tools**
 
 Tableau: Advanced dashboard building, data visualization, and storytelling.
+
 Python: Data manipulation, analysis, and visualization using libraries like Pandas, Numpy, and Matplotlib.
+
 SQL: Complex query writing, data mining, and database management.
+
 Data Analytics Techniques: Dashboard building, report writing, data mining, data merging, and statistical analysis.
+
 Critical Thinking: Ability to approach problems methodically, analyze data objectively, and derive actionable insights.
 
 **📊 Projects**

@@ -1,4 +1,5 @@
-Data Analyst Portfolio: Sebastian Mukuria
+Data Analyst Portfolio: **Sebastian Mukuria**
+
 Welcome to my Data Analyst Portfolio! Here, I showcase my expertise in data analytics, honed through hands-on projects and real-world applications. My primary tools of choice are Tableau, Python, and SQL, and I specialize in a range of analytics techniques.
 
 🛠️ Skills & Tools

@@ -24,7 +24,7 @@ I'm always open to discussing data challenges, potential job opportunities, or c
 
 * Email: sebastianmukuria@gmail.com
 
-* [LinkedIn]([url](https://www.linkedin.com/in/sebastian-mukuria/))
+* [LinkedIn](https://www.linkedin.com/in/sebastian-mukuria/)
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
 

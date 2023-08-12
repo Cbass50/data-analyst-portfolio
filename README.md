@@ -23,6 +23,8 @@ For a detailed look at my professional journey, educational background, and cert
 I'm always open to discussing data challenges, potential job opportunities, or collaborations. Feel free to reach out!
 
 Email: sebastianmukuria@gmail.com
+
 LinkedIn: [Your LinkedIn Profile]([url](https://www.linkedin.com/in/sebastian-mukuria/))
+
 Thank you for visiting my portfolio. I look forward to connecting with you!
 
